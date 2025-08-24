@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 REELS SYSTEM - Enterprise Content Generation Platform
 
 ![Revenue Target](https://img.shields.io/badge/Revenue-$135K%2Fmes-green)
@@ -103,3 +104,7 @@ MIT License - Uso libre para proyectos comerciales
 ⭐ **Si este proyecto te ayuda a generar revenue, dale una estrella!**
 
 **Made with 💰 by the ReelsSystem Team**
+=======
+# reelssystem
+Sistema automatizado de reels - Revenue $135K/me
+>>>>>>> 5774b43094d2f2a5e9c150b64334999ebd4fb670
